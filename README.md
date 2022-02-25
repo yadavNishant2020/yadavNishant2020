@@ -1,5 +1,5 @@
 <h2 align="center">
-  Welcome to Nishant Singh Yadav's profile!
+  Welcome to Nishant's profile!
   <img src="https://media4.giphy.com/media/dSZeGNWkA0pk4/giphy.gif" width="48">
 </h2>
 
