@@ -3,7 +3,7 @@
   <img src="https://media4.giphy.com/media/dSZeGNWkA0pk4/giphy.gif" width="48">
 </h2>
 
-<h1>About Me <img src="https://media0.giphy.com/media/GHwS8CO6u59bUqThTd/giphy.gif?cid=ecf05e47qpyrjtvatju5iap3e6ig41smifjy688ufzvyt1dr&rid=giphy.gif&ct=s" width="48" /></h1>
+<h1>About Me <img src="https://media0.giphy.com/media/GHwS8CO6u59bUqThTd/giphy.gif?cid=ecf05e47qpyrjtvatju5iap3e6ig41smifjy688ufzvyt1dr&rid=giphy.gif&ct=s" width="68" /></h1>
 <ul>
   <li> I’m Nishant Singh Yadav.</li>
   <li>I am persuing my B.Tech CSE from Chandigarh University 🎓</li>
