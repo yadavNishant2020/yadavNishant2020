@@ -1,6 +1,6 @@
 <h2 align="center">
   Welcome to Nishant Singh Yadav's profile!
-  <img src="https://media4.giphy.com/media/dSZeGNWkA0pk4/giphy.gif?cid=ecf05e47gpinyh75zxgd335ldw5rs3im0wmyoj00bhd612bf&rid=giphy.gif&ct=s" width="48">
+  <img src="https://media4.giphy.com/media/dSZeGNWkA0pk4/giphy.gif" width="48">
 </h2>
 
 <h1>About Me <img src="https://media0.giphy.com/media/GHwS8CO6u59bUqThTd/giphy.gif?cid=ecf05e47qpyrjtvatju5iap3e6ig41smifjy688ufzvyt1dr&rid=giphy.gif&ct=s" width="48" /></h1>
