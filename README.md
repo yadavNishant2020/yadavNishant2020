@@ -3,13 +3,13 @@
   <img src="https://media4.giphy.com/media/dSZeGNWkA0pk4/giphy.gif" width="48">
 </h2>
 
-<h1>About Me <img src="https://media0.giphy.com/media/GHwS8CO6u59bUqThTd/giphy.gif?cid=ecf05e47qpyrjtvatju5iap3e6ig41smifjy688ufzvyt1dr&rid=giphy.gif&ct=s" width="68" /></h1>
+<h1 align="center"><img src="https://media0.giphy.com/media/GHwS8CO6u59bUqThTd/giphy.gif?cid=ecf05e47qpyrjtvatju5iap3e6ig41smifjy688ufzvyt1dr&rid=giphy.gif&ct=s" width="68" /></h1>
 <ul align="center">
   <p> I’m Nishant Singh Yadav.</p>
-  <li>I am persuing my B.Tech CSE from Chandigarh University 🎓</li>
-  <li> I’m interested in doing web and app development.</li>
-<li>I’m currently learning reactJs and react native.</li>
-  <li>Check out my website: https://personal-react-portfolio.web.app/ </li>
+  <p>I am persuing my B.Tech CSE from Chandigarh University. </p>
+  <p> I’m interested in doing web and app development.</p>
+<p>I’m currently learning reactJs and react native.</p>
+  <p>Check out my website: https://personal-react-portfolio.web.app/ </p>
 </ul>
 
 <!---
