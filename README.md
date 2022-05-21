@@ -9,7 +9,9 @@
   <p>I am persuing my B.Tech CSE from Chandigarh University. </p>
   <p> I’m interested in doing web and app development.</p>
 <p>I’m currently learning reactJs and react native.</p>
-  <p>Check out my website: https://personal-react-portfolio.web.app/ </p>
+  <p>Check out my Portfolio: https://personal-react-portfolio.web.app/ </p>
+    <p>Check out my Resume: https://drive.google.com/file/d/1zMKuoepo4P-rg36meelap5ri4H5e-Xn9/view?usp=sharing </p>
+
 </ul>
 
 <!---
