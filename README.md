@@ -5,12 +5,22 @@
 
 <h1 align="center"><img src="https://media0.giphy.com/media/GHwS8CO6u59bUqThTd/giphy.gif?cid=ecf05e47qpyrjtvatju5iap3e6ig41smifjy688ufzvyt1dr&rid=giphy.gif&ct=s" width="68" /></h1>
 <ul align="center">
-  <p> I’m Nishant Singh Yadav.</p>
-  <p>I am persuing my B.Tech CSE from Chandigarh University. </p>
-  <p> I’m interested in doing web and app development.</p>
-<p>I’m currently learning reactJs and react native.</p>
-  <p>Check out my Portfolio: https://personal-react-portfolio.web.app/ </p>
-    <p>Check out my Resume: https://drive.google.com/file/d/1zMKuoepo4P-rg36meelap5ri4H5e-Xn9/view?usp=sharing </p>
+ 
+<p>Certainly, here's a professional "About Me" section for your GitHub profile:</p>
+
+<p>👋 Hi, I'm Nishant Singh Yadav.</p>
+
+<p>🎓 I'm currently pursuing my B.Tech in Computer Science and Engineering at Chandigarh University.</p>
+
+<p>💻 My passion lies in the world of web and app development, where I strive to create meaningful and user-friendly digital experiences.</p>
+
+<p>🌟 I'm actively honing my skills in ReactJS and React Native, two powerful technologies that enable me to build dynamic and responsive web applications and mobile apps.</p>
+
+<p>📂 You can explore my work on my Portfolio: https://nsy.co.in/</p>
+
+<p>📄 If you're interested in learning more about my background and experiences, feel free to take a look at my Resume: https://drive.google.com/file/d/1ce0YK_HU_IwOVMlFY4Yt2B9w66ryGeRJ/view?usp=sharing </p>
+
+<p>🚀 Let's connect and collaborate on exciting projects! </p>
 
 </ul>
 
