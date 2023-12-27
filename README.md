@@ -14,7 +14,7 @@
 
 <p>📂 You can explore my work on my Portfolio: https://nsy.co.in/</p>
 
-<p>📄 If you're interested in learning more about my background and experiences, feel free to take a look at my Resume: https://drive.google.com/file/d/1ce0YK_HU_IwOVMlFY4Yt2B9w66ryGeRJ/view?usp=sharing </p>
+<p>📄 If you're interested in learning more about my background and experiences, feel free to take a look at my Resume: https://drive.google.com/file/d/1mozyCel_Hlgf3Czmf3AYpQbGOcQzJZjb/view?usp=sharing </p>
 
 <p>🚀 Let's connect and collaborate on exciting projects! </p>
 
