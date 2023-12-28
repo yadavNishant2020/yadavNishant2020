@@ -1,4 +1,4 @@
-<h2 align="left">
+<h2 align="center">
   Welcome to Nishant's profile!
 </h2>
 
