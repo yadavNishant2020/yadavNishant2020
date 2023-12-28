@@ -1,4 +1,4 @@
-<h2 align="center">
+<h2 align="left">
   Welcome to Nishant's profile!
 </h2>
 
@@ -6,7 +6,7 @@
 
 <p>👋 Hi, I'm Nishant Singh Yadav.</p>
 
-<p>🎓 I'm currently pursuing my B.Tech in Computer Science and Engineering at Chandigarh University.</p>
+<p>🎓 I'm currently pursuing my B. Tech in Computer Science and Engineering at Chandigarh University.</p>
 
 <p>💻 My passion lies in the world of web and app development, where I strive to create meaningful and user-friendly digital experiences.</p>
 
