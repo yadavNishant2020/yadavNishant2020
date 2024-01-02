@@ -35,5 +35,6 @@
 | Software & Others | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /> <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /> |
 
 <h1>My GitHub Stats <img src="https://i.giphy.com/3ohs4ruO9hBMDRbOne.webp" width="88" /></h1>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavnishant2020&show_icons=true&locale=en" alt="yadavnishant2020" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavnishant2020&" alt="yadavnishant2020" /></p>
-
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavnishant2020&show_icons=true&locale=en" alt="yadavnishant2020" width="450" height="200" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavnishant2020&" alt="yadavnishant2020" width="450" height="200" />
+</p>
