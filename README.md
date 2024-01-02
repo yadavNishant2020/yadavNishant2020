@@ -1,7 +1,9 @@
 ![logo](https://github.com/yadavNishant2020/yadavNishant2020/blob/main/github-header-image%20(1).png)
-<h1 align="center">Hi 👋, I'm Nishant</h1>
-<h3 align="center">Passionate Full Stack Web Developer weaving digital dreams into reality with front-end frameworks, fueled by a relentless enthusiasm to shape the future of the digital realm.</h3>
-<img align="right" alt="coding" width="400" src"https://i.giphy.com/3iyKHMIKg5VWG6qHUm.webp](https://media2.giphy.com/media/60q1K6mTzQQ1suxNfm/giphy.gif?cid=ecf05e47ouzmdeqdtz3bqycqgr87ajvh8t7p279evebbqsgv&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
+<h2 align="center">
+  Welcome to Nishant Yadav's profile!
+  <img src="https://i.giphy.com/p3Uyi3KT4snhSQ2V3Z.webp" width="88">
+</h2>
+<h3 align="center">Passionate Full Stack Web Developer weaving digital dreams into reality with front-end frameworks!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadavnishant2020&label=Profile%20views&color=0e75b6&style=flat" alt="yadavnishant2020" /> </p>
 
@@ -32,8 +34,6 @@
 | Databases | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  /> |
 | Software & Others | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /> <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /> |
 
-<h1>My GitHub Stats</h1><img align="right" src="https://i.giphy.com/CtqI1GmvT0YVO.webp" width="300" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavnishant2020&show_icons=true&locale=en" alt="yadavnishant2020" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavnishant2020&" alt="yadavnishant2020" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadavnishant2020&show_icons=true&locale=en&layout=compact" alt="yadavnishant2020" /></p>
+<h1>My GitHub Stats <img src="https://i.giphy.com/3ohs4ruO9hBMDRbOne.webp" width="88" /></h1>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavnishant2020&show_icons=true&locale=en" alt="yadavnishant2020" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavnishant2020&" alt="yadavnishant2020" /></p>
 
