@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack development**
 
-- 👨‍💻 All of my projects are available at [nsy.co.in](nsy.co.in)
+- 👨‍💻 All of my projects are available at (https://nsy.co.in/)
 
 - 💬 Ask me about **React.js, Node.js, PostreSQL, Web Development**
 
