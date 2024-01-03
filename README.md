@@ -1,9 +1,9 @@
 ![logo](https://github.com/yadavNishant2020/yadavNishant2020/blob/main/github-header-image%20(1).png)
-<h2 align="center">
+<h1 align="center">
   Welcome to Nishant Yadav's profile!
   <img src="https://i.giphy.com/p3Uyi3KT4snhSQ2V3Z.webp" width="88">
-</h2>
-<h3 align="center">Passionate Full Stack Web Developer weaving digital dreams into reality with front-end frameworks!</h3>
+</h1>
+<h2 align="center">Passionate Full Stack Web Developer weaving digital dreams into reality with front-end frameworks!</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadavnishant2020&label=Profile%20views&color=0e75b6&style=flat" alt="yadavnishant2020" /> </p>
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mozyCel_Hlgf3Czmf3AYpQbGOcQzJZjb/view?usp=sharing](https://drive.google.com/file/d/1mozyCel_Hlgf3Czmf3AYpQbGOcQzJZjb/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/nishantsinghy15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishantsinghy15" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nishant-singh-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant-singh-yadav" height="30" width="40" /></a>
