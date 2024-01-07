@@ -37,4 +37,4 @@
 <h1>My GitHub Stats <img src="https://i.giphy.com/3ohs4ruO9hBMDRbOne.webp" width="88" /></h1>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavnishant2020&show_icons=true&locale=en" alt="yadavnishant2020" width="450" height="200" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavnishant2020&" alt="yadavnishant2020" width="450" height="200" />
-</p>
+<a href="https://wakatime.com"><img width="500" src="https://wakatime.com/share/@8472f792-c578-45ff-a671-f35c62d63a3c/f38883d8-b0ae-4413-93b4-704c477a7b5a.png" /></a></p>
