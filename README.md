@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/nishantsinghy15" target="blank"><img src="https://img.shields.io/twitter/follow/nishantsinghy15?logo=twitter&style=for-the-badge" alt="nishantsinghy15" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack development**
+- 🌱 I’m a **Full Stack development**
 
 - 👨‍💻 All of my projects are available at (https://nsy.co.in/)
 
-- 💬 Ask me about **React.js, Node.js, PostreSQL, Web Development**
+- 💬 Ask me about **React.js, Node.js, PostreSQL, MongoDB etc...**
 
 - 📫 How to reach me **yadavnishant995@gmail.com**
 
