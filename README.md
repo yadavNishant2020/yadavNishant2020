@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **yadavnishant995@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mozyCel_Hlgf3Czmf3AYpQbGOcQzJZjb/view?usp=sharing](https://drive.google.com/file/d/1mozyCel_Hlgf3Czmf3AYpQbGOcQzJZjb/view?usp=sharing)](https://drive.google.com/file/d/1rYjuBgqIWdQ2IPHwCp8eKTk_ZNyffNvx/view?usp=sharing)
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1rYjuBgqIWdQ2IPHwCp8eKTk_ZNyffNvx/view?usp=sharing)]
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
