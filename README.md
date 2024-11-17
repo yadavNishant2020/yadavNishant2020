@@ -1,6 +1,6 @@
 ![logo](https://github.com/yadavNishant2020/yadavNishant2020/blob/main/github-header-image.png)
 <h1 align="center">
-  Welcome to Nishant Yadav's profile!
+  Welcome to Nishant's profile!
   <img src="https://i.giphy.com/p3Uyi3KT4snhSQ2V3Z.webp" width="88">
 </h1>
 <h3 align="center">Passionate Full Stack Web Developer weaving digital dreams into reality with front-end frameworks!</h3>
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **yadavnishant995@gmail.com**
 
-- 📄 Know about my experiences ([https://drive.google.com/file/d/1rYjuBgqIWdQ2IPHwCp8eKTk_ZNyffNvx/view?usp=sharing)]
+- 📄 Know about my experiences [(https://www.linkedin.com/in/nishant-singh-yadav/)]
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
