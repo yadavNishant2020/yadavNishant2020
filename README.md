@@ -1,4 +1,4 @@
-![logo](https://github.com/yadavNishant2020/yadavNishant2020/blob/main/github-header-image%20(1).png)
+![logo](https://github.com/yadavNishant2020/yadavNishant2020/blob/main/github-header-image.png)
 <h1 align="center">
   Welcome to Nishant Yadav's profile!
   <img src="https://i.giphy.com/p3Uyi3KT4snhSQ2V3Z.webp" width="88">
